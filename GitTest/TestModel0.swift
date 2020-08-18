@@ -1,5 +1,5 @@
 //
-//  TestModel.swift
+//  TestModel0.swift
 //  GitTest
 //
 //  Created by zhibin wang on 2020/8/18.
@@ -8,6 +8,6 @@
 
 import UIKit
 
-class TestModel: NSObject {
+class TestModel0: NSObject {
 
 }
