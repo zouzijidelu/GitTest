@@ -10,6 +10,6 @@ import UIKit
 
 class TestModel0: NSObject {
     override init() {
-        
+        print("123")
     }
 }
