@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B73C3C6272A4AE10041579C /* Model1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B73C3C5272A4AE10041579C /* Model1.swift */; };
 		8B9522A624EBD8C2009C4C20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9522A524EBD8C2009C4C20 /* AppDelegate.swift */; };
 		8B9522A824EBD8C2009C4C20 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9522A724EBD8C2009C4C20 /* SceneDelegate.swift */; };
 		8B9522AA24EBD8C2009C4C20 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B9522A924EBD8C2009C4C20 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8B73C3C5272A4AE10041579C /* Model1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model1.swift; sourceTree = "<group>"; };
 		8B9522A224EBD8C2009C4C20 /* GitTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B9522A524EBD8C2009C4C20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B9522A724EBD8C2009C4C20 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				8B9522A724EBD8C2009C4C20 /* SceneDelegate.swift */,
 				8B9522A924EBD8C2009C4C20 /* ViewController.swift */,
 				8B9522B924EBDA01009C4C20 /* TestModel0.swift */,
+				8B73C3C5272A4AE10041579C /* Model1.swift */,
 				8B9522AB24EBD8C2009C4C20 /* Main.storyboard */,
 				8B9522AE24EBD8C4009C4C20 /* Assets.xcassets */,
 				8B9522B024EBD8C4009C4C20 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				8B9522A624EBD8C2009C4C20 /* AppDelegate.swift in Sources */,
 				8B9522A824EBD8C2009C4C20 /* SceneDelegate.swift in Sources */,
 				8B9522BA24EBDA01009C4C20 /* TestModel0.swift in Sources */,
+				8B73C3C6272A4AE10041579C /* Model1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
