@@ -8,7 +8,6 @@
 
 import UIKit
 
-class TestModel0 {
+class TestModel0: NSObject {
 // commit1
-// commit2
 }
